@@ -9,6 +9,7 @@ A curated list of `Code of Conduct`
 
  - [CocaCola](http://www.coca-colacompany.com/content/dam/journey/us/en/private/fileassets/pdf/our-company/2016-COBC-US-Final.pdf)
  - [Facebook](https://investor.fb.com/corporate-governance/code-of-conduct/default.aspx)
+ - [Festa](https://festa.io/code-of-conduct)
  - [Google](https://abc.xyz/investor/other/google-code-of-conduct.html)
  - [Ikea](http://www.inter.ikea.com/Documents/Inter%20IKEA%20Group%20Code_approved%20by%20IIH%20Board_211113.pdf)
  - [Meetgo](https://meetgo.kr/#/policy/communityGuideline)
