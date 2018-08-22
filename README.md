@@ -13,6 +13,7 @@ A curated list of `Code of Conduct`
  - [Ford](https://corporate.ford.com/microsites/sustainability-report-2017-18/index.html)
  - [GE](http://dsg.files.app.content.prod.s3.amazonaws.com/gesustainability/wp-content/uploads/2016/12/18205334/16-0020_GE_SPIRIT_LETTER-2_r10v3_11x8.5_PRINT_ENGLISH.pdf)
  - [GM](https://www.gm.com/content/dam/gm/en_us/english/Group4/InvestorsPDFDocuments/WWI.pdf)
+ - [Gitlab](https://about.gitlab.com/handbook/people-operations/code-of-conduct/)
  - [Google](https://abc.xyz/investor/other/google-code-of-conduct.html)
  - [HERSHEY](https://www.thehersheycompany.com/content/dam/corporate-us/documents/investors/code-of-conduct.pdf)
  - [IBM](https://www.ibm.com/investor/pdf/BCG_Feb_2011_English_CE.pdf)
