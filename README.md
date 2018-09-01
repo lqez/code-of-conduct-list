@@ -37,8 +37,8 @@ A curated list of `Code of Conduct`
 
 ## Community
  - [GNOME](https://wiki.gnome.org/Foundation/CodeOfConduct)
- - [PyCon Korea](https://www.pycon.kr/2018/about/coc/)
  - [OpenStack](https://www.openstack.org/legal/community-code-of-conduct/)
+ - [PyCon Korea](https://www.pycon.kr/2018/about/coc/)
 
 
 ## License
