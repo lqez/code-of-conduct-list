@@ -8,6 +8,7 @@ A curated list of `Code of Conduct`
 ## Company
 
  - [CocaCola](http://www.coca-colacompany.com/content/dam/journey/us/en/private/fileassets/pdf/our-company/2016-COBC-US-Final.pdf)
+ - [Elastic](https://www.elastic.co/kr/community/codeofconduct)
  - [Facebook](https://investor.fb.com/corporate-governance/code-of-conduct/default.aspx)
  - [Festa](https://festa.io/code-of-conduct)
  - [Ford](https://corporate.ford.com/microsites/sustainability-report-2017-18/index.html)
